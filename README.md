@@ -9,7 +9,7 @@ Explicação:
 Heuristica 9: Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros
 Explicação:
 
-Heuristica 3: Controle e liberdade para o usuário
+Heuristica 10: Ajuda e documentação
 Explicação:
 
 Heuristica 7: Eficiência e flexibilidade de uso
